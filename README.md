@@ -20,7 +20,7 @@
 - 💡 Passionate about turning raw data into meaningful insights
 - 📍 Based in **Ahmedabad, Gujarat, India**
 - 💬 Ask me about **Python, Data Analysis, Jupyter Notebooks**
-- 📫 Reach me at: **[your-email@gmail.com]**
+- 📫 Reach me at: **[shrimalidhruvita2526@gmail.com]**
 
 ---
 
