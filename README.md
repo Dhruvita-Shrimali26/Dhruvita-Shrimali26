@@ -1,75 +1,111 @@
+# 👋 Hi, I'm Dhruvita Shrimali
+
+## 🚀 About Me
+I'm a passionate developer with a strong interest in [**your field - e.g., Web Development, Machine Learning, Mobile Apps, etc.**]. I love building creative solutions, learning new technologies, and collaborating with the community.
+
+- 🔭 Currently working on: **[Your current project]**
+- 🌱 Learning: **[Technologies/skills you're learning]**
+- 💬 Ask me about: **[Your expertise areas]**
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)** | **[LinkedIn](https://linkedin.com/in/yourprofile)** | **[Twitter](https://twitter.com/yourhandle)**
+
+---
+
+## 💻 Tech Stack & Skills
+
+**Languages:**
+- JavaScript/TypeScript
+- Python
+- [Add your languages]
+
+**Frontend:**
+- React, Vue, Angular
+- HTML, CSS, Tailwind CSS
+- [Add your frameworks]
+
+**Backend:**
+- Node.js, Express
+- Django, Flask
+- [Add your tech]
+
+**Tools & Platforms:**
+- Git & GitHub
+- VS Code
+- Docker
+- [Add your tools]
+
+---
+
+## 🏆 Featured Projects
+
+### 🎯 [Project Name 1](https://github.com/Dhruvita-Shrimali26/project-1)
+*Brief description of what this project does*
+- Built with: React, Node.js, MongoDB
+- Key features: Feature 1, Feature 2, Feature 3
+- ⭐ Stars: X | 🍴 Forks: X
+
+### 🎯 [Project Name 2](https://github.com/Dhruvita-Shrimali26/project-2)
+*Brief description of what this project does*
+- Built with: Python, Flask, PostgreSQL
+- Key features: Feature 1, Feature 2
+- ⭐ Stars: X | 🍴 Forks: X
+
+### 🎯 [Project Name 3](https://github.com/Dhruvita-Shrimali26/project-3)
+*Brief description of what this project does*
+- Built with: JavaScript, HTML, CSS
+- ⭐ Stars: X | 🍴 Forks: X
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-# Hi there, I'm Dhruvita Shrimali 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruvita-Shrimali26&theme=radical&show_icons=true&hide_border=true)
 
-**Data Science Enthusiast | Python Developer | Jupyter Notebooks**
-
-*Ahmedabad, Gujarat, India*
-
-[![GitHub followers](https://img.shields.io/github/followers/Dhruvita-Shrimali26?label=Follow&style=social)](https://github.com/Dhruvita-Shrimali26)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dhruvita-Shrimali26&color=brightgreen)](https://github.com/Dhruvita-Shrimali26)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvita-Shrimali26&theme=radical&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
-
-- 🔭 Currently working on **Data Science & ML projects**
-- 🌱 Learning **Machine Learning, Data Analysis, and AI**
-- 💡 Passionate about turning raw data into meaningful insights
-- 📍 Based in **Ahmedabad, Gujarat, India**
-- 💬 Ask me about **Python, Data Analysis, Jupyter Notebooks**
-- 📫 Reach me at: **[shrimalidhruvita2526@gmail.com]**
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🛍️ [Product Ad Composer](https://github.com/Dhruvita-Shrimali26/Product-ad-composer)
-> Automated product advertisement generation using data-driven insights.
-- Built with **Python & Jupyter Notebook**
-- Analyzes product data to generate compelling ad content
-- Demonstrates data processing and automation skills
-
----
-
-## 📫 Connect With Me
+## 🌐 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrimali-dhruvita-012850267/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrimalidhruvita2526@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvita-Shrimali26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
+## 🎓 Education & Certifications
+- **[Degree/Course Name]** - [University/Platform] (Year)
+- **[Certification Name]** - [Organization] (Year)
+
+---
+
+## 📝 Latest Blog Posts
+<!-- You can add your latest blog posts here -->
+- [Blog Post Title 1](#)
+- [Blog Post Title 2](#)
+- [Blog Post Title 3](#)
+
+---
+
+## 🎯 Current Goals
+- [ ] Goal 1: [Description]
+- [ ] Goal 2: [Description]
+- [ ] Goal 3: [Description]
+
+---
+
 <div align="center">
-  <i>⭐ Agar koi project helpful lage toh star zaroor do!</i>
+
+⭐ **If you find my projects useful, please consider giving them a star!** ⭐
+
 </div>
+
+
